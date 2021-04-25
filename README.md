@@ -4,9 +4,11 @@
 
 ##### Passos para rodar:
  - Tenha instalado node, yarn e npm mais atual;
- - rode dentro da raiz yarn server no terminal;
- - depois rode yarn build e yarn start.
+ - Rode dentro da raiz yarn server no terminal;
+ - Depois rode yarn build e yarn start.
  yarn dev para desenvolver
+ 
+### Dicas para codar no VsCode
 
 
 - Visual Code Studio
@@ -14,8 +16,6 @@
 - NODE
 - Yarn
 - Linux Mint 20
-
-### Dicas para codar no VsCode
 
 Baixe a fonte JetBrains Mono completa e instale em seu SO para melhor codificação.
 
