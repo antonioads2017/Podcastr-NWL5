@@ -2,6 +2,13 @@
 #### Aplicativo de Podcast online
 #### React.js e Next.js com server.json
 
+##### Passos para rodar:
+ - Tenha instalado node, yarn e npm mais atual;
+ - rode dentro da raiz yarn server no terminal;
+ - depois rode yarn build e yarn start.
+ yarn dev para desenvolver
+
+
 - Visual Code Studio
 - NPM
 - NODE
