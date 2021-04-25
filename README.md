@@ -21,6 +21,8 @@ Baixe a fonte JetBrains Mono completa e instale em seu SO para melhor codificaç
 
 Você pode instalar as seguintes extensões a partir do menu de extensões do próprio VS Code:
 
+- **[Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)**;
+- **[Material Design Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)**;
 - **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**: Essa extensão faz a correção ortográfica no nosso código, funcionando melhor com camelcase (por padrão, corrige apenas o inglês). Essa extensão é bastante útil mas é totalmente opcional;
 - **[Portuguese - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese)**: É um dicionário de português para que a extensão **Code Spell Checker** consiga fazer também a correção ortográfica em Português;
 - **[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)**: Essa extensão reconhece cores CSS escritas em qualquer lugar do nosso código. Por padrão reconhece apenas cores em hexadecimal mas você pode configurar para reconhecer cores no formato de palavras como `"red"` ou `"yellow"`. É uma extensão bastante útil, já que reconhece as cores diretamente no código;
